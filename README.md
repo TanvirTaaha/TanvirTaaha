@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 ### **Hi there ! I'm Tanvir Hossain Taaha 👋**
-🔭 I’m currently working as Machine Learning Engineering at [ACI Limited](https://aci-bd.com/)
-I’ve previously worked as an android developer in [BYDO Academy](https://bydoacademy.com/)
+🔭 I’m currently working as Machine Learning Engineering at [ACI Limited](https://aci-bd.com/)</br>
+⚡ I’ve previously worked as an android developer in [BYDO Academy](https://bydoacademy.com/)
 
 ## Languages
 ![Java](https://img.shields.io/badge/-Java-181717?style=flat&logo=java)
